@@ -9,7 +9,7 @@ import (
 )
 
 // MapTplHostToCtx 映射模板域名到上下文变量中
-// 用法：ParseHost("{subDomain}.{domain}.com")
+// 用法：MapTplHostToCtx("{subDomain}.{domain}.com")
 // 获取：ctx.Data("subDomain")  ctx.Data("domain")
 func MapTplHostToCtx(tpl string) faygo.HandlerFunc {
 	return func(ctx *faygo.Context) error {
