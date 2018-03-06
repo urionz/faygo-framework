@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"fay-blog/models"
+	"faygo-framework/models"
 
 	"github.com/henrylee2cn/faygo"
 	"github.com/henrylee2cn/faygo/ext/db/gorm"

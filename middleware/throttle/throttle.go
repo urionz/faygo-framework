@@ -2,7 +2,7 @@ package throttle
 
 import (
 	"crypto/sha1"
-	"fay-blog/config"
+	"faygo-framework/config"
 	"fmt"
 	"io"
 	"net/http"

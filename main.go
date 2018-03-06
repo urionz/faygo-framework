@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fay-blog/config"
-	"fay-blog/models"
-	"fay-blog/router"
+	"faygo-framework/config"
+	"faygo-framework/models"
+	"faygo-framework/router"
 
 	"github.com/henrylee2cn/faygo"
 )

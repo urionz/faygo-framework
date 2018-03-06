@@ -1,7 +1,7 @@
 package config
 
 import (
-	"fay-blog/utils"
+	"faygo-framework/utils"
 	"time"
 
 	"github.com/henrylee2cn/faygo"

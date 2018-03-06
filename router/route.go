@@ -1,12 +1,12 @@
 package router
 
 import (
-	"fay-blog/controller"
-	"fay-blog/middleware/captcha"
-	"fay-blog/middleware/host"
-	"fay-blog/middleware/jwt"
-	"fay-blog/middleware/pprof"
-	"fay-blog/middleware/throttle"
+	"faygo-framework/controller"
+	"faygo-framework/middleware/captcha"
+	"faygo-framework/middleware/host"
+	"faygo-framework/middleware/jwt"
+	"faygo-framework/middleware/pprof"
+	"faygo-framework/middleware/throttle"
 
 	"github.com/henrylee2cn/faygo"
 )

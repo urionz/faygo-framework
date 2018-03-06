@@ -1,7 +1,7 @@
 package captcha
 
 import (
-	"fay-blog/config"
+	"faygo-framework/config"
 	"time"
 )
 

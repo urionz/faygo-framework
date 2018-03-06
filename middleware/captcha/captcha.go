@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/base64"
 	"encoding/json"
-	"fay-blog/config"
-	"fay-blog/utils"
+	"faygo-framework/config"
+	"faygo-framework/utils"
 	"net/http"
 
 	"github.com/dchest/captcha"

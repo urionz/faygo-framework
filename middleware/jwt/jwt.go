@@ -1,8 +1,8 @@
 package jwt
 
 import (
-	"fay-blog/config"
-	"fay-blog/models"
+	"faygo-framework/config"
+	"faygo-framework/models"
 	"strconv"
 	"time"
 

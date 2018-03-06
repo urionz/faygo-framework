@@ -1,8 +1,8 @@
 package pprof
 
 import (
-	"fay-blog/config"
-	"fay-blog/middleware/ip"
+	"faygo-framework/config"
+	"faygo-framework/middleware/ip"
 	"net/http/pprof"
 
 	"github.com/henrylee2cn/faygo"
